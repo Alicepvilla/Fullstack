@@ -8,6 +8,18 @@ Seiya de Pegaso Serena Tsukino
 Gok£ nivel dios
 El lagarto Juancho
 La Princesa Mononoke
+<<<<<<< HEAD
 
 Seiya de Pegaso
 Gokú nivel dios
+=======
+La Princesa Mononoke
+Serena Tsukino
+
+>>>>>>> awakers
+
+La Princesa Mononoke
+Serena Tsukino
+Seiya de Pegaso
+Gokú nivel dios
+Nairobi, la ama
