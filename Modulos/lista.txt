@@ -1,0 +1,12 @@
+
+
+
+
+copy con lista.txt
+
+Seiya de Pegaso Serena Tsukino
+Gok£ nivel dios
+El lagarto Juancho
+La Princesa Mononoke
+
+
